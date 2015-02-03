@@ -1,13 +1,2 @@
-package com.github.practice;
-
-public class example {
-
-	public static void main(string[] args) {
-		
-                int diamondOre= 10;
-		
-               	System.out.printLn("Hi you have " + diamondOre + " diamond ore")
-      		
-        }
-
-}
+Me practicing my basic java
+This is a world goal plugin and im not sure if it works but like i said its practice
