@@ -1,1 +1,18 @@
+  world goal(burn dat diamond ore)
+  
+    public static void (main string[] args)  {
+    
+        int DiamondOre=64
+        int DiamondOreGoal=64
+        
+        if(DiamondOre == DiamondOre) {
+		  	System.out.println("We met our goal ho's");
+		} else if(DiamondOre > DiamondOreGoal) {
+		  	System.out.println("We have wasted to many diamonds you idiots!");		
+		} else {
+		  	System.out.println("We have Failed :-(");
+		}
+		
+	}
 
+}
